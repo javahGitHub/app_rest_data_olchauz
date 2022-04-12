@@ -23,7 +23,6 @@ public class ChatReports  {
 
     private Date date;
 
-    private String from;
 
 
 }
